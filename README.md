@@ -1,9 +1,8 @@
 # Taufiq Haikal
 
-` On a journey to git gud `
-
 ` BSc. (Hons.) in Physics | MSc. in Data Science `
 
+` On a journey to git gud.. `
 
 ## 🧰 Languages / Tech Stacks
 
