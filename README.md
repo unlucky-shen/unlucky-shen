@@ -2,6 +2,8 @@
 
 ` Physicist | Developer | Tech Enthusiast `
 
+` BSc. (Hons.) in Physics | MSc. in Data Science `
+
 On a journey to git gud 
 
 ### 🧰 Languages / Tech Stacks
