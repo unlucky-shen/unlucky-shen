@@ -1,4 +1,4 @@
-# Taufiq Haikal
+# 🥀 Taufiq Haikal
 
 ` Physicist | Developer | tech Enthusiast `
 
