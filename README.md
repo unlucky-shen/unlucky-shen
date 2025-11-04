@@ -1,10 +1,9 @@
 # Taufiq Haikal
 
-` Physicist | Developer | Tech Enthusiast `
+` On a journey to git gud `
 
 ` BSc. (Hons.) in Physics | MSc. in Data Science `
 
-On a journey to git gud 
 
 ## 🧰 Languages / Tech Stacks
 
