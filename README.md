@@ -1,4 +1,6 @@
-## Taufiq Haikal
+# Taufiq Haikal
+
+` Physicist | Developer| tech Enthusiast `
 
 <!--
 **unlucky-shen/unlucky-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
