@@ -6,7 +6,7 @@ On a journey to git gud
 
 ### Languages / Tech Stacks
 
-<p style="background-color:#0d1117; padding:40px; border-radius:40px;">
+<p padding:40px; border-radius:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="45" height="45" style="margin: 10px;"/>
