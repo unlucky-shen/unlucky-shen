@@ -1,4 +1,4 @@
-# Taufiq Haikal
+# ` Taufiq Haikal `
 
 ` BSc. (Hons.) in Physics | MSc. in Data Science `
 
