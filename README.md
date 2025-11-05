@@ -2,8 +2,6 @@
 
 ` BSc. (Hons.) in Physics | MSc. in Data Science `
 
-` On a journey to git gud.. `
-
 ## Languages / Tech Stacks
 
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
