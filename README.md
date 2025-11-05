@@ -2,7 +2,7 @@
 
 ` BSc. (Hons.) in Physics | MSc. in Data Science `
 
-## Languages / Tech Stacks
+## Languages / Tools
 
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
