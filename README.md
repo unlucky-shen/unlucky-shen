@@ -1,6 +1,6 @@
 # ` Taufiq Haikal `
 
-` BSc. (Hons.) in Physics | MSc. in Data Science `
+` BSc. (Hons.) Physics | MSc. Data Science `
 
 ## Languages / Tools
 
