@@ -1,3 +1,8 @@
+
+`In pursuit of low level...`
+
+<br><br>
+
 ## Currently Learning
 <img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
 <img align="left" alt="Cplusplus" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -12,5 +17,3 @@
 <br clear="left"/>
 
 <br><br>
-
-In pursuit of low level...
