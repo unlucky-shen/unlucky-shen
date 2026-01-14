@@ -4,6 +4,7 @@
 ## Currently Learning
 
 <img align="left" alt="Cplusplus" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Nix" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
 
 <br clear="left"/>
 
