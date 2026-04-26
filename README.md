@@ -1,15 +1,16 @@
-`vro...`
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=unlucky-shen&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="unlucky-shen's GitHub Stats" />
+</p>
 
-## Tools
-<img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374016/python.svg" />
-<img align="left" alt="R" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373927/nix.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354004/linux-tux.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
+---
 
+**`Languages & Tools`**
 
-<br clear="left"/>
-
-<br><br>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Typst](https://img.shields.io/badge/typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
